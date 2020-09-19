@@ -1,7 +1,7 @@
 def new_hash
  hash = {}
 end
- 
+
 def actor
 hash = {name: "Raven Symone"}
 end
